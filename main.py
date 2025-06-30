@@ -91,7 +91,7 @@ except Exception as e:
     client = None
 
 # RapidAPI Configuration
-RAPIDAPI_KEY = "faac326673msh3ca31bdf3e8902bp19f308jsn73fc2f66712a"
+RAPIDAPI_KEY = "8735e5f96cmsha7d1b39ee161540p19c383jsn0a08e29d398b"
 RAPIDAPI_HOST = "youtube-transcriptor.p.rapidapi.com"
 
 # Create uploads directory
