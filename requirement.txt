@@ -1,0 +1,15 @@
+fastapi==0.104.1
+uvicorn==0.24.0
+python-multipart==0.0.6
+google-genai
+moviepy==1.0.3
+pillow==9.5.0
+python-jose[cryptography]==3.3.0
+python-dotenv==1.0.0
+requests==2.31.0
+aiofiles==0.24.0
+cors==1.0.1
+fastapi-cors==0.0.6
+yt-dlp
+imageio==2.31.1
+imageio-ffmpeg==0.4.8
